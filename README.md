@@ -1,3 +1,9 @@
+---
+
+⚠️ NOTE: This forked repo is an archived documentation of open-source work I did. Please refer to the original repo for up-to-date information.
+
+---
+
 # Specification of FHIR Connect mapping files
 
 ## Purpose
